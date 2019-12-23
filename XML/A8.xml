@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "A8.xsl" ?>
+<mail>
+
+    <email roll="76">
+        <from>kumbhar.ganesh1998@gmail.com</from>
+        <to>garimaguptah2@gmail.com</to>
+        <subject>XML DOM</subject>
+        <content>Document Object Model</content>
+    </email>
+
+    <email roll="77">
+        <from>garimaguptah2@gmail.com</from>
+        <to>kumbhar.ganesh1998@gmail.com</to>
+        <subject>XML DTD</subject>
+        <content>Document Type Definition</content>
+    </email>
+
+</mail>
